@@ -19,7 +19,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Length \\(encoder\\): (\\d+)"/>
+        </properties>
       </component>
       <component id="c64be" class="javax.swing.JTextField" binding="textFieldSecondCol">
         <constraints>
@@ -27,7 +29,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Length filtered \\(encoder\\): (\\d+)"/>
+        </properties>
       </component>
       <component id="70ab3" class="javax.swing.JTextField" binding="textFieldThirdCol">
         <constraints>
@@ -35,7 +39,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value="Speed \\(mm/s\\): (\\d+\\.\\d*)"/>
+        </properties>
       </component>
       <hspacer id="6592b">
         <constraints>

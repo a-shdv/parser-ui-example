@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e719eeaf-3356-45f6-9584-540fe5e6f766" name="Changes" comment="Add browse files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Main.java" afterDir="false" />
     </list>
@@ -90,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706773617082</updated>
       <workItem from="1706773618141" duration="2344000" />
-      <workItem from="1706776234141" duration="1097000" />
+      <workItem from="1706776234141" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -108,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706776656369</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add browse files">
+      <option name="closed" value="true" />
+      <created>1706777344775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706777344775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,5 +138,21 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Add browse files" />
     <option name="LAST_COMMIT_MESSAGE" value="Add browse files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/company/Main.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="line" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
